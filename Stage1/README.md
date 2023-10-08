@@ -1,1 +1,1 @@
-
+This module is modified from the Stage 1 from [Self-supervised speaker recognition with loss-gated learning].(https://github.com/TaoRuijie/Loss-Gated-Learning). In my experience, the channels of ECAPA-TDNN is set to 1024, which can improve the EER from 7.5 to 7.0 in Vox\_O. 
